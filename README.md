@@ -3,6 +3,7 @@ Hi there 👋
 I’m a Full Stack Engineer with over 5 years of experience in crafting robust, scalable, and secure web applications. With expertise spanning both front-end and back-end development, I’m passionate about building high-quality solutions tailored to meet client needs, whether it's creating applications from scratch or optimizing existing systems.
 
 Recently, I've been diving deep into AI-driven development, specializing in tools like LangChain and Retrieval-Augmented Generation (RAG) to build smart, context-aware applications that go beyond traditional automation.
+
 💻 Skills & Expertise:
 - Languages: Python, JavaScript, TypeScript, Java, PHP, C++
 - Frameworks: Django, FastAPI, Flask, Node.js, ASP.NET, Laravel, Next.js, Vue.js, React.js, AngularJS
