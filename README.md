@@ -1,44 +1,25 @@
-## Hi there 👋
+Hi there 👋
 
-As a seasoned Full Stack Engineer with over 5 years of experience, I specialize in crafting robust, scalable, and secure solutions for clients across industries.
-With expertise in both front-end and back-end development, I am passionate about delivering high-quality web and application development services that meet your unique needs.
-Whether it's building applications from scratch, optimizing existing solutions, or improving workflow efficiency — I've got you covered!
+I’m a Full Stack Engineer with over 5 years of experience in crafting robust, scalable, and secure web applications. With expertise spanning both front-end and back-end development, I’m passionate about building high-quality solutions tailored to meet client needs, whether it's creating applications from scratch or optimizing existing systems.
 
-Lately, I’ve been diving deep into the world of AI-driven development, especially with tools like LangChain and RAG (Retrieval-Augmented Generation), to create smart, context-aware applications that go beyond traditional automation.
+Recently, I've been diving deep into AI-driven development, specializing in tools like LangChain and Retrieval-Augmented Generation (RAG) to build smart, context-aware applications that go beyond traditional automation.
+💻 Skills & Expertise:
+- Languages: Python, JavaScript, TypeScript, Java, PHP, C++
+- Frameworks: Django, FastAPI, Flask, Node.js, ASP.NET, Laravel, Next.js, Vue.js, React.js, AngularJS
+- CRM Platforms: Salesforce, HubSpot, Zoho CRM (customization & integration)
+- AI & Automation: LangChain, RAG, OpenAI API (GPT-4), Pinecone, FAISS, Zapier, Make.com, n8n
+- Data Visualization: D3.js, Chart.js
+- Databases: PostgreSQL, MongoDB, SQLite, MySQL, MS SQL Server
+- DevOps & Cloud: Docker, AWS, Firebase, CI/CD pipelines
+- Desktop Apps: PyQT, PySide, Tkinter, wxPython, Qt
 
-🔑 My goal? To exceed your expectations by delivering software solutions that are not just functional, but also intelligent, user-friendly, and visually delightful.
+🚀 Why Work With Me?
+- Results-Driven: I focus on delivering solutions that align with your business goals.
+- Proven Expertise: 8+ years of experience in various frameworks and technologies.
+- Clear Communication: Always transparent, responsive, and ready to collaborate.
+- Deadline-Oriented: I respect timelines and consistently deliver on or before schedule.
+- Quality Code: Clean, maintainable, and well-documented code that scales.
 
-⚙️ Technical Skills Overview
-Programming Languages:
-Python, JavaScript, TypeScript, Java, PHP, C++
+📬 Let’s Connect!
 
-Frameworks & Libraries:
-Django, FastAPI, Flask, Node.js, ASP.NET, Laravel, Next.js, Vue.js, React.js, AngularJS
-
-CRM Platforms:
-Salesforce (Apex, LWC, Flows), HubSpot, Zoho CRM - from integration to customization and workflow automation
-
-AI & Intelligent Automation:
-LangChain, RAG architecture, OpenAI API (GPT-4), Pinecone, FAISS, Make.com, Zapier, n8n – building smart agents, context-aware chatbots, and AI-enhanced pipelines
-
-Data Visualization:
-D3.js, Chart.js – dynamic dashboards and data storytelling
-
-Database Systems:
-PostgreSQL, MongoDB, SQLite, MySQL, MS SQL Server
-
-DevOps & Cloud Services:
-Docker, AWS, Firebase, CI/CD pipelines
-
-Desktop Applications:
-PyQT, PySide, Tkinter, wxPython, Qt
-
-💡 Why Choose Me?
-Results-Focused: I prioritize delivering solutions aligned with your business goals.
-Proven Expertise: 8+ years of experience across frameworks, platforms, and industries.
-Exceptional Communication: Transparent, clear, and responsive every step of the way.
-Deadline-Oriented: I respect your time and consistently deliver on or before schedule.
-Attention to Detail: I write clean, maintainable, and well-documented code — no shortcuts.
-
-📨 Let’s Build Something Great Together!
-Drop me a message, and let’s discuss how I can add value to your next project. Whether you need a consultation, a prototype, or a full application built from scratch - I’m here to help.
+If you’re looking for a skilled developer to build, optimize, or innovate your next project, feel free to reach out. Whether you need a consultation, a prototype, or a full-fledged app, I’m here to help!
